@@ -10,7 +10,7 @@ Also I made the same project with [Vue](link)
 
 ## Visit
 
-`link` -  
+`link` -  https://allexz10.github.io/product-list/
 
 ## About
 
