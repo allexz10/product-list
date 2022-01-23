@@ -18,6 +18,7 @@ Also I made the same project with [Vue](https://github.com/allexz10/product-list
 This project was created with Create React App
 
 Instal the project - `npm install`
+
 Run the project - `npm run start`
 
 In the project directory, you can run `npm start` to run app in development mode.<br>
