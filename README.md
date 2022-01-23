@@ -19,7 +19,5 @@ This project was created with Create React App
 
 Instal the project - `npm install`
 
-Run the project - `npm run start`
-
 In the project directory, you can run `npm start` to run app in development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
